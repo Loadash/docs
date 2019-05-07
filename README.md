@@ -1,0 +1,2 @@
+# docs
+Loadash Documentation
